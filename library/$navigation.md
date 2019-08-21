@@ -12,3 +12,10 @@
 - [将puppeteer自带的Chromium打包进Electron安装包中](?file=002-Electron/003-将puppeteer自带的Chromium打包进Electron安装包中 "将puppeteer自带的Chromium打包进Electron安装包中")
 - [electron开发环境使用devtool](?file=002-Electron/004-electron开发环境使用devtool "electron开发环境使用devtool")
 - [限制拖放区域](?file=002-Electron/005-限制拖放区域 "限制拖放区域")
+
+##### Vue
+- [安装Stylus](?file=003-Vue/001-安装Stylus "安装Stylus")
+- [工作时间计算函数](?file=003-Vue/002-工作时间计算函数 "工作时间计算函数")
+
+##### Office
+- [Excel Add ins 踩坑](?file=004-Office/001-Excel Add ins 踩坑 "Excel Add ins 踩坑")
